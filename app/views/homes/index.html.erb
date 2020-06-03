@@ -1,0 +1,8 @@
+<%= link_to 'Logout'.html_safe, destroy_user_session_path, method: :get %>   
+<h1>Homes#index</h1>
+<p>Find me in app/views/homes/index.html.erb</p>
+Data: <%= data = [1,5,2,-1,9,10,11,12]%><br>
+<%= link_to 'Get Data'.html_safe, get_data_path(data: data), remote: true %> <br>
+<br>   
+<br>
+<div class="show_data"></div>   

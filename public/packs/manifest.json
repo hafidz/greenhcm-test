@@ -1,0 +1,84 @@
+{
+  "application.js": "/packs/js/application-2983bce119ff32a7f3aa.js",
+  "application.js.map": "/packs/js/application-2983bce119ff32a7f3aa.js.map",
+  "custom-script.js": "/packs/js/custom-script-1fa7793ef8a6c10bb275.js",
+  "custom-script.js.map": "/packs/js/custom-script-1fa7793ef8a6c10bb275.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-2983bce119ff32a7f3aa.js"
+      ],
+      "js.map": [
+        "/packs/js/application-2983bce119ff32a7f3aa.js.map"
+      ]
+    },
+    "custom-script": {
+      "js": [
+        "/packs/js/custom-script-1fa7793ef8a6c10bb275.js"
+      ],
+      "js.map": [
+        "/packs/js/custom-script-1fa7793ef8a6c10bb275.js.map"
+      ]
+    },
+    "intro": {
+      "js": [
+        "/packs/js/intro-616d90905a90ae30733b.js"
+      ],
+      "js.map": [
+        "/packs/js/intro-616d90905a90ae30733b.js.map"
+      ]
+    },
+    "jquery": {
+      "js": [
+        "/packs/js/jquery-b97bb29693a2f79434af.js"
+      ],
+      "js.map": [
+        "/packs/js/jquery-b97bb29693a2f79434af.js.map"
+      ]
+    },
+    "materialize": {
+      "js": [
+        "/packs/js/materialize-834cde336ea7421f9ef9.js"
+      ],
+      "js.map": [
+        "/packs/js/materialize-834cde336ea7421f9ef9.js.map"
+      ]
+    },
+    "perfect-scrollbar": {
+      "js": [
+        "/packs/js/perfect-scrollbar-899a4365a8c441d4bfdb.js"
+      ],
+      "js.map": [
+        "/packs/js/perfect-scrollbar-899a4365a8c441d4bfdb.js.map"
+      ]
+    },
+    "plugins": {
+      "js": [
+        "/packs/js/plugins-974048fc2d005cb18fb2.js"
+      ],
+      "js.map": [
+        "/packs/js/plugins-974048fc2d005cb18fb2.js.map"
+      ]
+    },
+    "vendors": {
+      "js": [
+        "/packs/js/vendors-6ecc3249708c6d7a73cf.js"
+      ],
+      "js.map": [
+        "/packs/js/vendors-6ecc3249708c6d7a73cf.js.map"
+      ]
+    }
+  },
+  "intro.js": "/packs/js/intro-616d90905a90ae30733b.js",
+  "intro.js.map": "/packs/js/intro-616d90905a90ae30733b.js.map",
+  "jquery.js": "/packs/js/jquery-b97bb29693a2f79434af.js",
+  "jquery.js.map": "/packs/js/jquery-b97bb29693a2f79434af.js.map",
+  "materialize.js": "/packs/js/materialize-834cde336ea7421f9ef9.js",
+  "materialize.js.map": "/packs/js/materialize-834cde336ea7421f9ef9.js.map",
+  "perfect-scrollbar.js": "/packs/js/perfect-scrollbar-899a4365a8c441d4bfdb.js",
+  "perfect-scrollbar.js.map": "/packs/js/perfect-scrollbar-899a4365a8c441d4bfdb.js.map",
+  "plugins.js": "/packs/js/plugins-974048fc2d005cb18fb2.js",
+  "plugins.js.map": "/packs/js/plugins-974048fc2d005cb18fb2.js.map",
+  "vendors.js": "/packs/js/vendors-6ecc3249708c6d7a73cf.js",
+  "vendors.js.map": "/packs/js/vendors-6ecc3249708c6d7a73cf.js.map"
+}
