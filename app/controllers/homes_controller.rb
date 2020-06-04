@@ -4,8 +4,17 @@ class HomesController < ApplicationController
   end
 
   def get_data
-    @data = sort_data(params[:data])
+  	data = params[:data]
+  	request = RestClient.get('http://localhost:3000/process_data', {params: {array: data}})
+  	# puts request.body
+  	@data = request.body
   end
+
+  def process_data
+    data = sort_data(params[:array])
+    render :json => data   
+  end
+  
 
   def sort_data(data)
     return data if data.length <= 1 
@@ -20,6 +29,8 @@ class HomesController < ApplicationController
       end    
     end
 
-    return data
+    data
   end
+
+
 end
